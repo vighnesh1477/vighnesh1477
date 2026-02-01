@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Information Science & Engineering Student 🌍 International Author 📄 Patent Project Holder 💻 Full-Stack Developer 🔐 Cybersecurity Enthusiast<br>image procecing, published research papers, designed cybersequrity algorithms. solving real words problmes<br>
+🎓 Information Science & Engineering Student | 🌍 International Published Author | 📄 Patent Project Holder<br>
+💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast<br>
+Specializing in image processing, peer-reviewed research, and the architecture of advanced cybersecurity algorithms to address complex real-world challenges.<br> 
 
 
 ## 🌐 Socials:
