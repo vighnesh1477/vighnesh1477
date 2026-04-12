@@ -55,7 +55,3 @@ Specializing in image processing, peer-reviewed research, and the architecture o
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=vighnesh1477&theme=radical&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=vighnesh1477&icon=0&color=0)](https://visitcount.itsvg.in)
