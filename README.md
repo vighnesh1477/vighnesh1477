@@ -10,22 +10,27 @@
 <img src="https://komarev.com/ghpvc/?username=vighnesh1477&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+
+```python
 class VighneshPoojary:
+
     def __init__(self):
         self.name = "Vighnesh Poojary"
         self.role = "Information Science & Engineering Student"
-        self.location = "Mangalore, India"
-        self.cgpa = 8.36
-        self.current_focus = [
+        self.location = "Karnataka, India"
+        self.cgpa = "8.36"
+
+        self.focus = [
             "Artificial Intelligence",
-            "Data Analytics",
             "Computer Vision",
-            "Cybersecurity"
+            "Cybersecurity",
+            "Data Analytics"
         ]
-        self.interests = "Solving real-world problems through innovative engineering"
-    def __str__(self):
-        return f"{self.name} — Transforming theoretical concepts into intelligent, real-world systems."
+
+        self.motto = "Transforming theoretical concepts into intelligent real-world systems"
+```
+
 
 
 🌐 Connect With Me
