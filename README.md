@@ -94,14 +94,15 @@ class VighneshPoojary:
 <img src="https://github-profile-trophy.vercel.app/?username=vighnesh1477&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" />
 </p>
 
-🔬 Research Experience
-Role
-Focus Area
-Details
-1st Author Researcher	Cybersecurity & Encryption	Designed URL Access Path Algorithm addressing security gaps in college websites; published at IEEE INSPIRE Conference
-3rd Author Researcher	AI Ethics & Bias Detection	Identified incorrect datasets and predicted accurate datasets using mathematical notations; published at IEEE Conference, Acharya Institute
-Lead Researcher	Video Processing & Image Analysis	Developed dynamic caption generation system using K-means clustering for inverted-color captions; accepted at Springer Conference, RVITM
-Lead Researcher	Mobile Computing & IoT	Designed Deep-Sleep Ticket Tracker with QR-based bus ticketing system; accepted at Springer Conference, RVITM
+## 🔬 Research Experience
+
+| Role                  | Focus Area                        | Details                                                                                                                  |
+| --------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1st Author Researcher | Cybersecurity & Encryption        | Designed URL Access Path Algorithm addressing security gaps in college websites; published at IEEE INSPIRE Conference    |
+| 3rd Author Researcher | AI Ethics & Bias Detection        | Identified incorrect datasets and predicted accurate datasets using mathematical notations; published at IEEE Conference |
+| Lead Researcher       | Video Processing & Image Analysis | Developed Dynamic Captions system using K-Means clustering; accepted at Springer Conference                              |
+| Lead Researcher       | Mobile Computing & IoT            | Developed Deep-Sleep Ticket Tracker with QR-based bus ticketing and notifications; accepted at Springer Conference       |
+|                       |                                   |                                                                                                                          |
 
 💡 Patent Projects
 🗑️ Eco-Ride Bin (2024)
