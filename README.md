@@ -24,9 +24,9 @@ class VighneshPoojary:
             "Cybersecurity"
         ]
         self.interests = "Solving real-world problems through innovative engineering"
-    
     def __str__(self):
         return f"{self.name} — Transforming theoretical concepts into intelligent, real-world systems."
+
 
 🌐 Connect With Me
 <p align="center">
