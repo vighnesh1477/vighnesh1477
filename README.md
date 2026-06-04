@@ -76,7 +76,7 @@ class VighneshPoojary:
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/vighnesh1477" alt="GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/409ba5/vighnesh1477" alt="GitHub Contributions" />
 </p>
 
 ## 🔬 Research Experience
