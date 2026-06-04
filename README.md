@@ -74,24 +74,9 @@ class VighneshPoojary:
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
 </p>
 
-## 📊 GitHub Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vighnesh1477&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1477&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" width="49%" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vighnesh1477&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B35&currStreakLabel=4FC3F7" width="49%" />
-</p>
-
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh1477&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B35&area=true&hide_border=true" width="100%" />
-</p>
-
-## 🏆 Trophy Wall
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vighnesh1477&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh1477&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ## 🔬 Research Experience
