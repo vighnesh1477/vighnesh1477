@@ -90,15 +90,16 @@ class VighneshPoojary:
 
 
 ## 💡 Patent Projects
-🗑️ Eco-Ride Bin (2024)
-Status: Patent Applied
 
-Developed an intelligent waste management system for buses featuring:
+### 🗑️ Eco-Ride Bin (2024)
 
-Real-time alert system for bus management and sanitation workers
-Sensor-based waste level monitoring
-Android application for notifications and tracking
-Technologies: Android, Firebase, Sensors, Arduino, C++
+**Status:** Patent Applied
+
+- Real-time alert system for bus management and sanitation workers
+- Sensor-based waste level monitoring
+- Android application for notifications and tracking
+
+**Technologies:** Android, Firebase, Sensors, Arduino, C++
 
 ## 🚀 Featured Projects
 
@@ -146,13 +147,6 @@ Technologies: Android, Firebase, Sensors, Arduino, C++
 **Relevant Coursework:**
 Object Oriented Programming • Databases • Data Structures & Algorithms • Operating Systems • Computer Networks • Machine Learning • Full-Stack Development • Image Processing • Cryptography • Cloud Computing • Business Intelligence • System Engineering
 
-## 📖 Currently Learning
-🤖 Generative AI — Outskill Mastermind Workshop & BE 10X AI Tools Workshop
-🏥 Medical Imaging with MONAI — Deep Learning Models & Real-World Case Studies by Dr. Kumar Rajamani (Cropin Technologies)
-🔒 Advanced Cybersecurity & AI — Predictive AI-Enabled Cyber Threat Intelligence by Dr. Gaurav Sharma (University of Sheffield)
-📡 5G/6G Intelligent Architecture — Nokia Networks Workshop
-⚡ EV/Mobility Decision Making — TCS/IISc Workshop
-💼 Deloitte Technology Job Simulation — Practical coding and development tasks
 ## 🎯 Fun Facts
 🏏 Team Sports Enthusiast — Plays Cricket and Volleyball to stay fit and build teamwork
 🧩 Puzzle Solver — Loves logic-based challenges and analytical thinking puzzles
