@@ -33,7 +33,7 @@ class VighneshPoojary:
 
 
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://github.com/vighnesh1477"><img src="https://img.shields.io/badge/GitHub-vighnesh1477-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vighnesh-poojary"><img src="https://img.shields.io/badge/LinkedIn-Vighnesh_Poojary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,7 +41,7 @@ class VighneshPoojary:
 <a href="tel:7619161634"><img src="https://img.shields.io/badge/Phone-7619161634-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 <p align="center">
 <b>Languages</b><br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -74,7 +74,7 @@ class VighneshPoojary:
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
 </p>
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vighnesh1477&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1477&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" width="49%" />
@@ -84,12 +84,12 @@ class VighneshPoojary:
 <img src="https://streak-stats.demolab.com?user=vighnesh1477&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B35&currStreakLabel=4FC3F7" width="49%" />
 </p>
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh1477&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B35&area=true&hide_border=true" width="100%" />
 </p>
 
-🏆 Trophy Wall
+## 🏆 Trophy Wall
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vighnesh1477&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" />
 </p>
@@ -102,9 +102,9 @@ class VighneshPoojary:
 | 3rd Author Researcher | AI Ethics & Bias Detection        | Identified incorrect datasets and predicted accurate datasets using mathematical notations; published at IEEE Conference |
 | Lead Researcher       | Video Processing & Image Analysis | Developed Dynamic Captions system using K-Means clustering; accepted at Springer Conference                              |
 | Lead Researcher       | Mobile Computing & IoT            | Developed Deep-Sleep Ticket Tracker with QR-based bus ticketing and notifications; accepted at Springer Conference       |
-|                       |                                   |                                                                                                                          |
 
-💡 Patent Projects
+
+## 💡 Patent Projects
 🗑️ Eco-Ride Bin (2024)
 Status: Patent Applied
 
@@ -161,14 +161,14 @@ Technologies: Android, Firebase, Sensors, Arduino, C++
 **Relevant Coursework:**
 Object Oriented Programming • Databases • Data Structures & Algorithms • Operating Systems • Computer Networks • Machine Learning • Full-Stack Development • Image Processing • Cryptography • Cloud Computing • Business Intelligence • System Engineering
 
-📖 Currently Learning
+## 📖 Currently Learning
 🤖 Generative AI — Outskill Mastermind Workshop & BE 10X AI Tools Workshop
 🏥 Medical Imaging with MONAI — Deep Learning Models & Real-World Case Studies by Dr. Kumar Rajamani (Cropin Technologies)
 🔒 Advanced Cybersecurity & AI — Predictive AI-Enabled Cyber Threat Intelligence by Dr. Gaurav Sharma (University of Sheffield)
 📡 5G/6G Intelligent Architecture — Nokia Networks Workshop
 ⚡ EV/Mobility Decision Making — TCS/IISc Workshop
 💼 Deloitte Technology Job Simulation — Practical coding and development tasks
-🎯 Fun Facts
+## 🎯 Fun Facts
 🏏 Team Sports Enthusiast — Plays Cricket and Volleyball to stay fit and build teamwork
 🧩 Puzzle Solver — Loves logic-based challenges and analytical thinking puzzles
 📑 Avid Reader — Regularly reads peer-reviewed research articles to stay ahead of tech trends
