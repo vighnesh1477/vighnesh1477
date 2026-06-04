@@ -147,12 +147,13 @@ class VighneshPoojary:
 **Relevant Coursework:**
 Object Oriented Programming • Databases • Data Structures & Algorithms • Operating Systems • Computer Networks • Machine Learning • Full-Stack Development • Image Processing • Cryptography • Cloud Computing • Business Intelligence • System Engineering
 
-## 🎯 Fun Facts
-🏏 Team Sports Enthusiast — Plays Cricket and Volleyball to stay fit and build teamwork
-🧩 Puzzle Solver — Loves logic-based challenges and analytical thinking puzzles
-📑 Avid Reader — Regularly reads peer-reviewed research articles to stay ahead of tech trends
-🏅 Infosys Certified — Completed certifications in Machine Learning, Python, C, R Programming, Java, Statistics, and Frontend Development
-🔧 Hands-On Builder — From Arduino prototypes to full-stack apps, believes in learning by building
+## 🎯 Hobbies & Interests
+
+* 🏏 **Sports:** Actively play Cricket and Volleyball, helping build teamwork, discipline, and leadership skills.
+* 🧩 **Problem Solving:** Enjoy solving logical puzzles and analytical challenges to sharpen critical thinking.
+* 📚 **Research & Learning:** Regularly read research papers and technical articles to stay updated with emerging technologies.
+* 💻 **Building Projects:** Passionate about creating software, AI solutions, and hardware prototypes that solve real-world problems.
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
