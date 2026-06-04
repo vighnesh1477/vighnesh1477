@@ -175,16 +175,15 @@ Separates magnetic materials using motors and mechanical components
 Exhibited at college under faculty guidance
 Technologies: Motors, Mechanical Components
 
-📄 Publications
-#
-Title
-Venue
-Status
-Role
-1	URL Access Path Algorithm	IEEE INSPIRE Conference	Published & Presented	1st Author
-2	Ethics in AI — Dataset Accuracy & Bias Detection	IEEE Conference, Acharya Institute	Published & Presented	3rd Author
-3	Deep-Sleep Ticket Tracker	Springer Conference, RVITM	Accepted & Presented	Lead Author
-4	Dynamic Captions via Video Background Analysis	Springer Conference, RVITM	Accepted & Presented	Lead Author
+## 📄 Publications
+
+| # | Title                                            | Venue                       | Status                | Role        |
+| - | ------------------------------------------------ | --------------------------- | --------------------- | ----------- |
+| 1 | URL Access Path Algorithm                        | IEEE INSPIRE Conference     | Published & Presented | 1st Author  |
+| 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference             | Published & Presented | 3rd Author  |
+| 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | Lead Author |
+| 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | Lead Author |
+
 
 🏅 Achievements
 🌍 Global Honorable Mention, PTC Competition — Ranked in Top 5 teams globally for designing an energy-efficient space
