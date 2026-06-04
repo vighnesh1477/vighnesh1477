@@ -115,65 +115,18 @@ Sensor-based waste level monitoring
 Android application for notifications and tracking
 Technologies: Android, Firebase, Sensors, Arduino, C++
 
-🚀 Featured Projects
-🚗 Vehicle-to-Vehicle Signaling with Blind-Spot Detection
-Status: Ongoing — Planned for Q1 Journal Publication
+## 🚀 Featured Projects
 
-An intelligent overtaking assistance system using computer vision and V2V communication:
+| Project                         | Technologies                       | Highlights                                                                   |
+| ------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
+| 🚗 Vehicle-to-Vehicle Signaling | RT-DETR, OpenCV, Computer Vision   | Blind-spot detection, vehicle tracking, pothole detection, V2V communication |
+| 🌐 AI Diary Fullstack Website   | ReactJS, Firebase                  | Voice & text diary, Google Authentication, auto-save by date                 |
+| 📂 Lab-Colab Website            | ReactJS, Firebase, Supabase        | Real-time file sharing and collaboration platform                            |
+| 🤖 ROUK Personal Assistant      | Python, Speech Synthesis           | Voice-controlled assistant for automation tasks                              |
+| 📱 Deep-Sleep Ticket Tracker    | Android, Firebase, QR, Google Maps | QR-based ticketing system with destination alerts                            |
+| 🔧 Smart Phone Back-Cover       | Arduino, Ultrasonic Sensors        | Proximity detection with buzzer and LED alerts                               |
+| 🧲 Magnetic Separation Model    | Motors, Mechanical Components      | Miniature model for magnetic material separation                             |
 
-Vehicle detection & tracking using RT-DETR
-Speed and distance estimation
-Road type classification (one-way vs two-way)
-Environmental detection (day/night/rain/fog) via classical computer vision
-Road geometry prediction (curvature, visibility, reliability)
-Pothole detection using K-means clustering
-Optical V2V communication
-Technologies: RT-DETR, OpenCV, K-means Clustering, Computer Vision
-
-🌐 AI Diary Fullstack Website (2025)
-A full-stack platform for daily routine tracking:
-
-Text and voice-based journaling
-Auto-save by date functionality
-Secure Google authentication login
-Technologies: ReactJS, Firebase (Auth, Database, Hosting)
-
-📂 Lab-Colab Website (2025)
-A collaborative file-sharing platform for lab environments:
-
-Real-time text and file sharing
-Logged-in users can view and download shared files
-Technologies: ReactJS, Firebase, Supabase
-
-🤖 ROUK Personal Assistant (2024)
-A Python-based virtual assistant:
-
-Opens and closes applications via voice commands
-Speech synthesis capabilities
-Automates tasks like drafting leave letters
-Technologies: Python, Speech Synthesis
-
-📱 Deep-Sleep Ticket Tracker (2025)
-A dual-app bus ticketing system:
-
-User app for ticket booking with QR codes
-Conductor app with destination alert notifications
-Google Maps integration for route tracking
-Technologies: Android, Firebase, QR Code, Google Maps API
-
-🔧 Smart Phone Back-Cover (2024)
-A proximity detection system:
-
-Detects distance between mobile phone and user
-Triggers buzzer and LED alerts when phone is too close
-Technologies: Arduino, Ultrasonic Sensors, LEDs
-
-🧲 Magnetic Separation Model (2023)
-A miniature mechanical model:
-
-Separates magnetic materials using motors and mechanical components
-Exhibited at college under faculty guidance
-Technologies: Motors, Mechanical Components
 
 ## 📄 Publications
 
@@ -181,27 +134,32 @@ Technologies: Motors, Mechanical Components
 | - | ------------------------------------------------ | --------------------------- | --------------------- | ----------- |
 | 1 | URL Access Path Algorithm                        | IEEE INSPIRE Conference     | Published & Presented | 1st Author  |
 | 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference             | Published & Presented | 3rd Author  |
-| 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | Lead Author |
-| 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | Lead Author |
+| 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
+| 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
 
 
-🏅 Achievements
-🌍 Global Honorable Mention, PTC Competition — Ranked in Top 5 teams globally for designing an energy-efficient space
-📝 IEEE & Springer Paper Presentations — Presented research at Acharya Institute (IEEE), RVIM (Springer), and MITE (IEEE)
-🏁 Smart India Hackathon — Participated in the national-level hackathon focused on innovative technology development
-📖 Published Researcher — 1st Author on an IEEE encryption paper; 3rd Author on IEEE AI Ethics research
-💡 Patent Innovator — Multiple engineering projects addressing everyday challenges (patent-pending)
-📚 Two IEEE Conference Publications — Published as conference papers
-🎓 Education
-Institution
-Program
-Score
-Period
-Mangalore Institute of Technology and Engineering, Moodabidri	B.E. in Information Science and Engineering	CGPA: 8.36/10	Jun 2023 – Present
-Sri Durgaparameshwari Temple PU College, Mandarthi (KSEEB)	Senior Secondary (12th)	85.16%	2021 – 2023
-Karnataka Public School, Kokkarne (KSEEB)	Secondary School (10th)	81.28%	2020 – 2021
+## 🏅 Achievements
 
-Relevant Coursework: Object Oriented Programming, Databases, Discrete Maths, Data Structures and Algorithms, Operating Systems, Embedded System and Design, Computer Networks, Machine Learning, Full-stack Development, Image Processing, Open Source and Technologies, Digital Design and Systems, Cryptography, Cloud Computing, Business Intelligence, System Engineering, Design and Analysis of Algorithms
+| 🏆 Achievement                   | Details                                                                |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| 🌍 Global Honorable Mention      | Ranked among the Top 5 Teams Worldwide in the PTC Competition          |
+| 📄 IEEE Published Researcher     | Published conference papers in IEEE conferences                        |
+| 📚 Springer Research Author      | Multiple Springer conference papers accepted and presented             |
+| 🎤 Research Presenter            | Presented papers at IEEE and Springer conferences                      |
+| 💡 Patent Innovator              | Developed engineering solutions with patent applications               |
+| 🚀 Smart India Hackathon         | Participated in the national-level innovation hackathon                |
+| 🔬 AI & Cybersecurity Researcher | Research contributions in AI Ethics, Bias Detection, and Cybersecurity |
+
+## 🎓 Education
+
+| Institution                                                   | Program                                | Score         | Period         |
+| ------------------------------------------------------------- | -------------------------------------- | ------------- | -------------- |
+| Mangalore Institute of Technology and Engineering, Moodabidri | B.E. Information Science & Engineering | CGPA: 8.36/10 | 2023 – Present |
+| Sri Durgaparameshwari Temple PU College, Mandarthi            | Senior Secondary (12th)                | 85.16%        | 2021 – 2023    |
+| Karnataka Public School, Kokkarne                             | Secondary School (10th)                | 81.28%        | 2020 – 2021    |
+
+**Relevant Coursework:**
+Object Oriented Programming • Databases • Data Structures & Algorithms • Operating Systems • Computer Networks • Machine Learning • Full-Stack Development • Image Processing • Cryptography • Cloud Computing • Business Intelligence • System Engineering
 
 📖 Currently Learning
 🤖 Generative AI — Outskill Mastermind Workshop & BE 10X AI Tools Workshop
