@@ -36,7 +36,7 @@ class VighneshPoojary:
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://github.com/vighnesh1477"><img src="https://img.shields.io/badge/GitHub-vighnesh1477-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vighnesh-poojary"><img src="https://img.shields.io/badge/LinkedIn-Vighnesh_Poojary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vighnesh-poojary-006b65329"><img src="https://img.shields.io/badge/LinkedIn-Vighnesh_Poojary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Vighneshpoojary49@gmail.com"><img src="https://img.shields.io/badge/Email-Vighneshpoojary49%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
