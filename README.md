@@ -10,16 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=vighnesh1477&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-## 🔬 Research Experience
-
-| Role                  | Focus Area                        | Details                                                                                                                  |
-| --------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1st Author Researcher | Cybersecurity & Encryption        | Designed URL Access Path Algorithm addressing security gaps in college websites; published at IEEE INSPIRE Conference    |
-| 3rd Author Researcher | AI Ethics & Bias Detection        | Identified incorrect datasets and predicted accurate datasets using mathematical notations; published at IEEE Conference |
-| Lead Researcher       | Video Processing & Image Analysis | Developed Dynamic Captions system using K-Means clustering; accepted at Springer Conference                              |
-| Lead Researcher       | Mobile Computing & IoT            | Developed Deep-Sleep Ticket Tracker with QR-based bus ticketing and notifications; accepted at Springer Conference       |
-
-## 💡 Patent Projects
+## 💡 Patent Project
 
 ### 🗑️ Eco-Ride Bin (2024)
 
@@ -39,18 +30,6 @@
 | 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference             | Published & Presented | 3rd Author  |
 | 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
 | 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
-
-## 🚀 Featured Projects
-
-| Project                         | Technologies                       | Highlights                                                                   |
-| ------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
-| 🚗 Vehicle-to-Vehicle Signaling | RT-DETR, OpenCV, Computer Vision   | Blind-spot detection, vehicle tracking, pothole detection, V2V communication |
-| 🌐 AI Diary Fullstack Website   | ReactJS, Firebase                  | Voice & text diary, Google Authentication, auto-save by date                 |
-| 📂 Lab-Colab Website            | ReactJS, Firebase, Supabase        | Real-time file sharing and collaboration platform                            |
-| 🤖 ROUK Personal Assistant      | Python, Speech Synthesis           | Voice-controlled assistant for automation tasks                              |
-| 📱 Deep-Sleep Ticket Tracker    | Android, Firebase, QR, Google Maps | QR-based ticketing system with destination alerts                            |
-| 🔧 Smart Phone Back-Cover       | Arduino, Ultrasonic Sensors        | Proximity detection with buzzer and LED alerts                               |
-| 🧲 Magnetic Separation Model    | Motors, Mechanical Components      | Miniature model for magnetic material separation                             |
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
