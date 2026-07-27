@@ -1,3 +1,6 @@
+Here is the clean, updated README with the sections removed and the order swapped exactly as requested:
+
+```markdown
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vighnesh+Poojary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Researcher+%7C+Engineer+%7C+Innovator&descSize=18&descAlignY=52&descColor=4FC3F7" width="100%" />
 </p>
@@ -10,74 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=vighnesh1477&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-## 👨‍💻 About Me
-
-```python
-class VighneshPoojary:
-
-    def __init__(self):
-        self.name = "Vighnesh Poojary"
-        self.role = "Information Science & Engineering Student"
-        self.location = "Karnataka, India"
-        self.cgpa = "8.36"
-
-        self.focus = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Cybersecurity",
-            "Data Analytics"
-        ]
-
-        self.motto = "Transforming theoretical concepts into intelligent real-world systems"
-```
-
-
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://github.com/vighnesh1477"><img src="https://img.shields.io/badge/GitHub-vighnesh1477-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vighnesh-poojary-006b65329"><img src="https://img.shields.io/badge/LinkedIn-Vighnesh_Poojary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Vighneshpoojary49@gmail.com"><img src="https://img.shields.io/badge/Email-Vighneshpoojary49%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-## ⚙️ Tech Stack
-<p align="center">
-<b>Languages</b><br><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-<b>Frontend</b><br><br>
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-<b>Backend & Database</b><br><br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-<b>Tools & Platforms</b><br><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vighnesh1477/vighnesh1477/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ## 🔬 Research Experience
 
 | Role                  | Focus Area                        | Details                                                                                                                  |
@@ -86,7 +21,6 @@ class VighneshPoojary:
 | 3rd Author Researcher | AI Ethics & Bias Detection        | Identified incorrect datasets and predicted accurate datasets using mathematical notations; published at IEEE Conference |
 | Lead Researcher       | Video Processing & Image Analysis | Developed Dynamic Captions system using K-Means clustering; accepted at Springer Conference                              |
 | Lead Researcher       | Mobile Computing & IoT            | Developed Deep-Sleep Ticket Tracker with QR-based bus ticketing and notifications; accepted at Springer Conference       |
-
 
 ## 💡 Patent Projects
 
@@ -100,19 +34,6 @@ class VighneshPoojary:
 
 **Technologies:** Android, Firebase, Sensors, Arduino, C++
 
-## 🚀 Featured Projects
-
-| Project                         | Technologies                       | Highlights                                                                   |
-| ------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
-| 🚗 Vehicle-to-Vehicle Signaling | RT-DETR, OpenCV, Computer Vision   | Blind-spot detection, vehicle tracking, pothole detection, V2V communication |
-| 🌐 AI Diary Fullstack Website   | ReactJS, Firebase                  | Voice & text diary, Google Authentication, auto-save by date                 |
-| 📂 Lab-Colab Website            | ReactJS, Firebase, Supabase        | Real-time file sharing and collaboration platform                            |
-| 🤖 ROUK Personal Assistant      | Python, Speech Synthesis           | Voice-controlled assistant for automation tasks                              |
-| 📱 Deep-Sleep Ticket Tracker    | Android, Firebase, QR, Google Maps | QR-based ticketing system with destination alerts                            |
-| 🔧 Smart Phone Back-Cover       | Arduino, Ultrasonic Sensors        | Proximity detection with buzzer and LED alerts                               |
-| 🧲 Magnetic Separation Model    | Motors, Mechanical Components      | Miniature model for magnetic material separation                             |
-
-
 ## 📄 Publications
 
 | # | Title                                            | Venue                       | Status                | Role        |
@@ -121,7 +42,6 @@ class VighneshPoojary:
 | 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference             | Published & Presented | 3rd Author  |
 | 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
 | 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
-
 
 ## 🏅 Achievements
 
@@ -135,27 +55,19 @@ class VighneshPoojary:
 | 🚀 Smart India Hackathon         | Participated in the national-level innovation hackathon                |
 | 🔬 AI & Cybersecurity Researcher | Research contributions in AI Ethics, Bias Detection, and Cybersecurity |
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-| Institution                                                   | Program                                | Score         | Period         |
-| ------------------------------------------------------------- | -------------------------------------- | ------------- | -------------- |
-| Mangalore Institute of Technology and Engineering, Moodabidri | B.E. Information Science & Engineering | CGPA: 8.36/10 | 2023 – Present |
-| Sri Durgaparameshwari Temple PU College, Mandarthi            | Senior Secondary (12th)                | 85.16%        | 2021 – 2023    |
-| Karnataka Public School, Kokkarne                             | Secondary School (10th)                | 81.28%        | 2020 – 2021    |
-
-**Relevant Coursework:**
-Object Oriented Programming • Databases • Data Structures & Algorithms • Operating Systems • Computer Networks • Machine Learning • Full-Stack Development • Image Processing • Cryptography • Cloud Computing • Business Intelligence • System Engineering
-
-## 🎯 Hobbies & Interests
-
-* 🏏 **Sports:** Actively play Cricket and Volleyball, helping build teamwork, discipline, and leadership skills.
-* 🧩 **Problem Solving:** Enjoy solving logical puzzles and analytical challenges to sharpen critical thinking.
-* 📚 **Research & Learning:** Regularly read research papers and technical articles to stay updated with emerging technologies.
-* 💻 **Building Projects:** Passionate about creating software, AI solutions, and hardware prototypes that solve real-world problems.
+| Project                         | Technologies                       | Highlights                                                                   |
+| ------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
+| 🚗 Vehicle-to-Vehicle Signaling | RT-DETR, OpenCV, Computer Vision   | Blind-spot detection, vehicle tracking, pothole detection, V2V communication |
+| 🌐 AI Diary Fullstack Website   | ReactJS, Firebase                  | Voice & text diary, Google Authentication, auto-save by date                 |
+| 📂 Lab-Colab Website            | ReactJS, Firebase, Supabase        | Real-time file sharing and collaboration platform                            |
+| 🤖 ROUK Personal Assistant      | Python, Speech Synthesis           | Voice-controlled assistant for automation tasks                              |
+| 📱 Deep-Sleep Ticket Tracker    | Android, Firebase, QR, Google Maps | QR-based ticketing system with destination alerts                            |
+| 🔧 Smart Phone Back-Cover       | Arduino, Ultrasonic Sensors        | Proximity detection with buzzer and LED alerts                               |
+| 🧲 Magnetic Separation Model    | Motors, Mechanical Components      | Miniature model for magnetic material separation                             |
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
-
-
-``
+```
