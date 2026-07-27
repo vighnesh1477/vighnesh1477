@@ -40,18 +40,6 @@
 | 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
 | 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Accepted & Presented  | 1st Author |
 
-## 🏅 Achievements
-
-| 🏆 Achievement                   | Details                                                                |
-| -------------------------------- | ---------------------------------------------------------------------- |
-| 🌍 Global Honorable Mention      | Ranked among the Top 5 Teams Worldwide in the PTC Competition          |
-| 📄 IEEE Published Researcher     | Published conference papers in IEEE conferences                        |
-| 📚 Springer Research Author      | Multiple Springer conference papers accepted and presented             |
-| 🎤 Research Presenter            | Presented papers at IEEE and Springer conferences                      |
-| 💡 Patent Innovator              | Developed engineering solutions with patent applications               |
-| 🚀 Smart India Hackathon         | Participated in the national-level innovation hackathon                |
-| 🔬 AI & Cybersecurity Researcher | Research contributions in AI Ethics, Bias Detection, and Cybersecurity |
-
 ## 🚀 Featured Projects
 
 | Project                         | Technologies                       | Highlights                                                                   |
