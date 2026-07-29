@@ -26,7 +26,7 @@
 
 | # | Title                                            | Venue                       | Status                | Role        |
 | - | ------------------------------------------------ | --------------------------- | --------------------- | ----------- |
-| 1 | URL Access Path Algorithm                        | IEEE Conference             | Presented & Published | 1st Author  |
+| 1 | A Novel and Innovative URL Access Path Obscuring Algorithm for Enhancing Student Data Security in ERP Systems| IEEE Conference             | Presented & Published | 1st Author  |
 | 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference (ICTCT-2025)| Presented & Published | 3rd Author  |
 | 3 | Deep-Sleep Ticket Tracker                        | Springer Conference(ICDTE-2025)| Presented & Published  | 1st Author |
 | 4 | Dynamic Captions via Video Background Analysis   | Springer Conference(ICDTE-2025)| Presented & Published  | 1st Author |
