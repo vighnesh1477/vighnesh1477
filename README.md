@@ -26,10 +26,10 @@
 
 | # | Title                                            | Venue                       | Status                | Role        |
 | - | ------------------------------------------------ | --------------------------- | --------------------- | ----------- |
-| 1 | URL Access Path Algorithm                        | IEEE INSPIRE Conference     | Presented & Published | 1st Author  |
-| 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference             | Presented & Published | 3rd Author  |
-| 3 | Deep-Sleep Ticket Tracker                        | Springer Conference (RVITM) | Presented & Published  | 1st Author |
-| 4 | Dynamic Captions via Video Background Analysis   | Springer Conference (RVITM) | Presented & Published  | 1st Author |
+| 1 | URL Access Path Algorithm                        | IEEE Conference             | Presented & Published | 1st Author  |
+| 2 | Ethics in AI – Dataset Accuracy & Bias Detection | IEEE Conference (ICTCT-2025)| Presented & Published | 3rd Author  |
+| 3 | Deep-Sleep Ticket Tracker                        | Springer Conference(ICDTE-2025)| Presented & Published  | 1st Author |
+| 4 | Dynamic Captions via Video Background Analysis   | Springer Conference(ICDTE-2025)| Presented & Published  | 1st Author |
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
