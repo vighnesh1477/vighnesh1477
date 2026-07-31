@@ -26,10 +26,10 @@
 
 | # | Title | Venue | Status | Role | Paper |
 |:-:|-------|-------|--------|:----:|:-----:|
-| 1 | A Novel and Innovative URL Access Path Obscuring Algorithm for Enhancing Student Data Security in ERP Systems | IEEE Conference (INSPIRE-2025) | Presented & Published | 1st Author | [📄 View](https://ieeexplore.ieee.org/document/11300636) |
-| 2 | An Ethical AI Framework for Identifying, Auditing and Mitigating Bias in AI Models | IEEE Conference (ICTCT-2025) | Presented & Published | 3rd Author | [📄 View](https://ieeexplore.ieee.org/document/11446876) |
-| 3 | Personalized Destination Tracking and Alerting Using QR Ticketing and GPS for Public Transport | Springer Conference (ICDTE-2025) | Presented & Published | 1st Author | [📄 View](https://zenodo.org/records/21623415) |
-| 4 | Dynamic Subtitle Color Adaptation Using K-Means Clustering | Springer Conference (ICDTE-2025) | Presented & Published | 1st Author | [📄 View](https://zenodo.org/records/21602324) |
+| 1 | A Novel and Innovative URL Access Path Obscuring Algorithm for Enhancing Student Data Security in ERP Systems | IEEE Conference (INSPIRE-2025) | Presented & Published | 1st Author | [View](https://ieeexplore.ieee.org/document/11300636) |
+| 2 | An Ethical AI Framework for Identifying, Auditing and Mitigating Bias in AI Models | IEEE Conference (ICTCT-2025) | Presented & Published | 3rd Author | [View](https://ieeexplore.ieee.org/document/11446876) |
+| 3 | Personalized Destination Tracking and Alerting Using QR Ticketing and GPS for Public Transport | Springer Conference (ICDTE-2025) | Presented & Published | 1st Author | [View](https://zenodo.org/records/21623415) |
+| 4 | Dynamic Subtitle Color Adaptation Using K-Means Clustering | Springer Conference (ICDTE-2025) | Presented & Published | 1st Author | [View](https://zenodo.org/records/21602324) |
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
