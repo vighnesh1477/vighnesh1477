@@ -12,13 +12,17 @@
 
 ## 💡 Patent Project
 
-### 🗑️ Eco-Ride Bin (2024)
+### 🗑️ EcoRide Bin: A Smart Waste Management for Cleaner Journey
 
-**Status:** Patent Applied
+**Status:** 📜 Patent Application Published
 
-- Real-time alert system for bus management and sanitation workers
-- Sensor-based waste level monitoring
-- Android application for notifications and tracking
+**Application No.:** 202541013074 A  
+**Publication Date:** 21 August 2026  
+**Patent Office Journal:** Issue No. 34/2026
+
+- Smart waste management system designed for electric buses
+- Dual-compartment waste collection and sensor-driven monitoring
+- Automated waste segregation, transport and disposal
 
 **Technologies:** Android, Firebase, Sensors, Arduino, C++
 
